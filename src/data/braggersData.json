@@ -381,7 +381,41 @@
             ],
             "bragValue": [1, 2, 3, 3, 0, 5, 4, -5, -5, 2, 3, 5, 1, -3, 3, 4, 4, 5, -1, 3],
             "imgName": "LanaOsusky.jpg",
-            "sessionDate": "February 2018"
+            "sessionDate": "March 2018"
+        },
+        {
+            "name": "Amy Linsebigler",
+            "jobTitle": "Commercial Director & Chief Scientist for Material Characterization",
+            "bu": "GE Research",
+            "careerLength": "23",
+            "brag": [
+                    "1985: Jeannette Senior HS 4th in Class",
+                    "1989: Seton Hill College: BS in Chemistry, Minor in Math & Art History",
+                    "1994: Author of a Chemical Review Article – Current Citation # ~12000",
+                    "1994:  Married",
+                    "1994:  Husband moved to Chicago for a Post-Doc at Argonne National Labs",
+                    "1995: University of Pittsburgh: PhD in Physical Chemistry",
+                    "1995: GE Research (CRD)",
+                    "1997: Dushman Award (Gemini CT Tube)",
+                    "1998: Husband finally moved to NY",
+                    "2000: Daughter was born",
+                    "2003: Laboratory Manager for the Chemical Sensing Lab",
+                    "2004: Second daughter was born",
+                    "2009: added role of BPM for Divested Homeland Protection business",
+                    "2011: Technology Leader for Characterization and Sensing",
+                    "2012: Expertise award from Mark Little",
+                    "2014: 10 year old Daughter was admitted to Albany Med as their youngest patient with Anorexia",
+                    "2015: Dog, daughter, flooding, broken bones",
+                    "2015: Customer’s Determine our Success award from Vic Abate",
+                    "2017: Realignment/Restructuring at GRC",
+                    "2017: Father Passed Away",
+                    "2017: Father-in-law Passed Away",
+                    "2018: Chief Role",
+                    "2018: Launch of Commercial Offering for Characterization"
+            ],
+            "bragValue": [4, 5, 4, 5, 0, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, -5, -5, 5, -3, -3, -3, 2, 5],
+            "imgName": "AmyLinsebigler.png",
+            "sessionDate": "March 2018"
         }
     ]
 }
