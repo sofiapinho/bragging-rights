@@ -30,8 +30,7 @@
     },
     {
       "name": "Heather Moffitt",
-      "jobTitle":
-        "Technology Product Mgr –Sourcing & Engagement Candidate Technologies",
+      "jobTitle": "Technology Product Mgr –Sourcing & Engagement Candidate Technologies",
       "bu": "GE Digital",
       "careerLength": "15",
       "brag": [
@@ -54,8 +53,7 @@
     },
     {
       "name": "Kristen Foster",
-      "jobTitle":
-        "Operations Analyst, Functional Materials & Thermosciences orgs",
+      "jobTitle": "Operations Analyst, Functional Materials & Thermosciences orgs",
       "bu": "GE Global Research Center",
       "careerLength": "3",
       "brag": [
@@ -603,8 +601,7 @@
     },
     {
       "name": "Amy Linsebigler",
-      "jobTitle":
-        "Commercial Director & Chief Scientist for Material Characterization",
+      "jobTitle": "Commercial Director & Chief Scientist for Material Characterization",
       "bu": "GE Research",
       "careerLength": "23",
       "brag": [
@@ -1265,6 +1262,64 @@
         5
       ],
       "imgName": "CindyDavis.jpg",
+      "sessionDate": "June 2018"
+    },
+    {
+      "name": "Megan Seel",
+      "jobTitle": "Principal Technical Product Manager for HR Portals",
+      "bu": "GE Corporate",
+      "careerLength": "15.5",
+      "brag": [
+        "1989: 4-H",
+        "1995: Community service (H)",
+        "1999: Valedictorian (E)",
+        "2000: Met Darren (F)",
+        "2002: Res Life (H)",
+        "2002: Dad’s cancer (F)",
+        "2003: Sports career (E)",
+        "2004: Career Ph#1: Proj Mgmt (E+H)",
+        "2004: Dad Recovers + Bike Trip (F)",
+        "2008: Career Ph#2: Global Leader (E+H)",
+        "2008: Recruiting (H)",
+        "2008: Dating + Engaged (F)",
+        "2010: Married (F)",
+        "2012: Most fun job ever (H)",
+        "2012: Depression (F)",
+        "2014: ERP COE (E)",
+        "2015: Sammy born (F)",
+        "2016: Career Ph#3: Leading in a Matrix (E+H)",
+        "2016: WN Hub Lead(H)",
+        "2017: Benji Born (F)",
+        "2018: 3 Roles eliminated (E)",
+        "2018: Bullying boss (E)",
+        "2019: OneHR saves me (E)"
+      ],
+      "bragValue": [
+        5,
+        4,
+        5,
+        3,
+        4,
+        -3,
+        5,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        -3,
+        5,
+        5,
+        4,
+        4,
+        5,
+        0,
+        -3,
+        4
+      ],
+      "imgName": "MeganSeel.jpg",
       "sessionDate": "June 2018"
     }
   ]
