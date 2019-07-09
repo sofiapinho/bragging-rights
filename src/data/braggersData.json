@@ -1487,6 +1487,58 @@
       ],
       "imgName": "LisaLowery.jpg",
       "sessionDate": "July 2018"
+    },
+    {
+      "name": "Rachel Gettings",
+      "jobTitle": "Lead Engineer",
+      "bu": "GE Corporate",
+      "careerLength": "7",
+      "brag": [
+        "1999: HS, 4th in class; D-1 college hockey recruitment",
+        "2003: College: UMAINE Blackbear! Biology --> Marine Biology",
+        "2007: Graduate School at UMAINE; Marine Biology",
+        "2010: First Job!  Orono Spectral Solutions",
+        "2011: First Patent, making an impact.",
+        "2012: Restless. Ready for a change",
+        "2012: Moved back home to NY. Interviewed with GE. Hired as a Chemical Engineer!",
+        "2012: I am not a Chemical Engineer; I got my degree in marine biology... What were they thinking hiring me? I cannot do this! ",
+        "2013: Settling in and adjusting to life at GE.  Being mentored, taking ChemE classes. Various wastewater treatment & membrane development projects.",
+        "2015: Maybe I am a Chemical Engineer!? Growing my confidence, making an impact on AGS project",
+        "2015: Materials and Manufacturing Young Researcher Award",
+        "2016: Promoted to Research Engineer",
+        "2017: GE Layoffs",
+        "2017: Restless.  Worried about my future at GE.  Considering leaving.  Project/Impact lull.",
+        "May:  Nominated for Cultivate Program.   A good outlet and support group during challenging times at GE ",
+        "2017: Staffed on Wearable Sensor Project.   New challenges, re-invigorated, project notoriety and success",
+        "2018: Staffed on Anti Corrosion Program- GE Aviation.  So Cool!",
+        "2018: Promoted to Lead Engineer!",
+        "2018: Took over leading Anti Corrosion Treatment (ACT) Program.  Self doubt creeping back in.",
+        "2018: Report out to GE Aviation CEO David Joyce on ACT Program.  My “coming full circle” moment "
+      ],
+      "bragValue": [
+        4,
+        5,
+        4,
+        5,
+        5,
+        1,
+        5,
+        -4,
+        1,
+        4,
+        4,
+        5,
+        -5,
+        -4,
+        1,
+        2,
+        4,
+        5,
+        2,
+        5
+      ],
+      "imgName": "RachelGettings.jpg",
+      "sessionDate": "July 2019"
     }
   ]
 }
