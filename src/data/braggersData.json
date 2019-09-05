@@ -1859,6 +1859,58 @@
       ],
       "imgName": "DeniseAnderson.jpg",
       "sessionDate": "September 2019"
+    },
+    {
+      "name": "Sarah Monahan",
+      "jobTitle": "Senior Engineer – CFD & Methods",
+      "bu": "GE Global Research",
+      "careerLength": "12",
+      "brag": [
+        "1996: HS Valedictorian",
+        "1996: Began college at University of Pittsburgh/family moved during first semester",
+        "1998: Co-op rotation at Mine Safety Appliances",
+        "2000: Graduated from Pitt, B. S. in Chemical Engineering",
+        "2001: First semester of graduate school at Iowa State University",
+        "2002: Grandma M. died",
+        "2002: Passed qualifiers",
+        "2003: First conference presentations: Davos, Switzerland and San Francisco, CA",
+        "2004: Passed preliminary exam",
+        "2006: Internship at DuPont",
+        "2006: The Evil Paper from Hell",
+        "2007: Ph. D. in Chemical Engineering from Iowa State and started working at GE Global Research",
+        "2008: Project pulled due to funding",
+        "2012: Became friends with the Lady Hawkheads of the Northeast",
+        "2013: Sister began graduate studies at NYU",
+        "2015: Began project for new combustor technology development",
+        "2017: Successful design review on the new combustor technology project",
+        "2017: GRC layoffs, Grandma W. in hospital",
+        "2018: Nominated for Cultivate program",
+        "2019: Promotion to Senior Engineer"
+      ],
+      "bragValue": [
+        4,
+        2,
+        3,
+        4,
+        -4,
+        -4,
+        4,
+        3,
+        5,
+        2,
+        -2,
+        5,
+        -1,
+        3,
+        3,
+        0,
+        5,
+        -3,
+        3,
+        3
+      ],
+      "imgName": "SarahMonahan.jpg",
+      "sessionDate": "September 2019"
     }
   ]
 }
