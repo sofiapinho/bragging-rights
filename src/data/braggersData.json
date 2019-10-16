@@ -1994,7 +1994,7 @@
     {
       "name": "Carrie Hughes-Cromwick",
       "jobTitle": "Analytics Engineer",
-      "bu": "GE	Renewable Energy",
+      "bu": "GE Renewable Energy",
       "careerLength": "14",
       "brag": [
         "2001: Waitlisted/accepted to CMU/Move to Pittsburgh",
@@ -2013,14 +2013,14 @@
         "2018: Recognized by YWCA and GE colleagues for Women on a Mission Award",
         "2020: Looking forward to pursuing opportunities with expanded management responsibilities"
       ],
-      "bragValue": [3, 5, 3, 5, 3, 5, -5, 3, 5, -5, -1, 3, 5, 0],
+      "bragValue": [3, 5, 3, 5, 3, 5, -5, 3, 5, -5, -1, 3, 5, 5, 0],
       "imgName": "CarrieHughes-Cromwick.jpg",
       "sessionDate": "October 2019"
     },
     {
       "name": "Danielle Sigismondo",
       "jobTitle": "Engineering Manager – Fleet Mechanical Engineering",
-      "bu": "GE	Renewables",
+      "bu": "GE Renewables",
       "careerLength": "12",
       "brag": [
         "2003: Graduate HS, Baldwinsville, NY",
@@ -2070,7 +2070,7 @@
         4,
         3
       ],
-      "imgName": "DanielleSigismondo.jpg",
+      "imgName": "CarrieHughes-Cromwick.jpg",
       "sessionDate": "October 2019"
     }
   ]
