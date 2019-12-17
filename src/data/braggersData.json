@@ -2389,13 +2389,12 @@
         "1997: Started learning English",
         "2001: Graduated HS – Best in class in Math of 120",
         "2001: What next?",
-        "2005:  Graduated with BE",
+        "2005: Graduated with BE",
         "2006: First job offer",
         "2006: Accepted into master’s program in the US",
-        "2008: Graduated with MS degree",
         "2009: Got Married ",
+        "2008: Graduated with MS degree",  
         "2009: Recession and Visa Issues",
-        "2009: Father in law passed away",
         "2010: Accepted to PhD program",
         "2010: Son was born",
         "2010: First time mom",
@@ -2406,8 +2405,7 @@
         "2016: Research Scientist – GRC",
         "2017: Reorganization at GRC",
         "2018: Daughter was born",
-        "2018: Second time mom ",
-        "2019: Kicking but* at GE Research"
+        "2019: Kicking butt at GE Research"
       ],
       "bragValue": [
          -1,
@@ -2421,7 +2419,6 @@
          5,
          5,
          -5,
-         -5,
          2,
          5,
          0,
@@ -2432,7 +2429,6 @@
          5,
          -2,
          5,
-         3,
          5
       ],
       "imgName": "AqsaPatel.jpg",
