@@ -2385,15 +2385,14 @@
       "careerLength": "13",
       "brag": [
         "1995: Living in a bubble",
-        "1996: Moved out of rural India",
-        "1997: Started learning English",
+        "1996: Moved to the city",
         "2001: Graduated HS – Best in class in Math of 120",
         "2001: What next?",
         "2005: Graduated with BE",
         "2006: First job offer",
-        "2006: Accepted into master’s program in the US",
-        "2009: Got Married ",
-        "2008: Graduated with MS degree",  
+        "2006: Accepted into the Master’s program at KU",
+        "2008: Got Married ",
+        "2009: Graduated with MS degree",
         "2009: Recession and Visa Issues",
         "2010: Accepted to PhD program",
         "2010: Son was born",
@@ -2423,7 +2422,7 @@
          5,
          0,
          3,
-         3,
+         5,
          -3,
          5 ,
          5,
@@ -2432,7 +2431,7 @@
          5
       ],
       "imgName": "AqsaPatel.jpg",
-      "sessionDate": "December 2019"
+      "sessionDate": "January 2019"
     }
   ]
 }
