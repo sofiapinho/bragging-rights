@@ -2519,6 +2519,84 @@
       ],
       "imgName": "KristinaVecchio.jpeg",
       "sessionDate": "January 2019"
+    },
+    {
+      "name": "Kory Long",
+      "jobTitle": "Payroll Specialist",
+      "bu": "Global Operations (People Operations)",
+      "careerLength": "4.5",
+      "brag": [
+        "1991: Birth",
+        "2001: Least Competitive Player",
+        "2003: Globetrotter",
+        "2003: Middle School",
+        "2009: Pharmacy Phun and Tetanus",
+        "2012: Too Much Phun ",
+        "2013: Bachelor of Arts",
+        "2015: MBA to GE",
+        "2016: Career Shake-Up",
+        "2017: Weight Gain",
+        "2018: Kory “Runs A Marathon”",
+        "2018: Poking the Bear at Work",
+        "2020: What’s next?"
+      ],
+      "bragValue": [
+        5,
+        0,
+        5,
+        -2,
+        5,
+        -5,
+        -3,
+        4,
+        -3,
+        -4,
+        4,
+        3,
+        1
+      ],
+      "imgName": "KoryLong.jpeg",
+      "sessionDate": "February 2019"
+    },
+    {
+      "name": "Tatsuki Matsuyama",
+      "jobTitle": "Senior Manager – Design Architect",
+      "bu": "Global Ops",
+      "careerLength": "20",
+      "brag": [
+        "1700: The Last Samurai",
+        "1945: The Grave of the Fireflies",
+        "1978: Resurrection",
+        "1988: ET, Knight Rider, The A-Team",
+        "1990: Coming to America",
+        "1996: Troy",
+        "2000: Up in the Air",
+        "2003: Office Space",
+        "2005: Trading Places",
+        "2010: Place Beyond the Pines",
+        "2012: Child’s Play",
+        "2016: Child’s Play 2",
+        "2018: This is 40",
+        "2020: Company Man"
+      ],
+      "bragValue": [
+        0,
+        0,
+        0,
+        0,
+        -4,
+        4,
+        5,
+        -3,
+        5,
+        -1,
+        3,
+        3,
+        -5,
+        5
+      ],
+      "imgName": "TatsukiMatsuyama.jpg",
+      "sessionDate": "February 2019"
     }
   ]
 }
