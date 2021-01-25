@@ -6,25 +6,23 @@
       "bu": "GE Power",
       "careerLength": "8",
       "brag": [
-        "2010: Graduated RPI with Electrical Engineering Degree",
+        "2010: Graduated RPI",
         "2010: Contractor at GE",
         "2011: Hiring Freeze at GE",
-        "2011: Tropical Storm Irene",
         "2012: Joined GE as a GT Services Controls Engineer",
-        "2014: Field Engineer Training in Florence, Italy",
-        "2015: Joined ITO team",
+        "2013: Joined Toastmasters",
+        "2014: Field Engineer Training in Florence",
+        "2015: Lead Generator Applications Engineer Role",
         "2016: On Campus Community Garden",
         "2017: Commercial Women Committee Leader",
-        "2017: Area Director for Toastmasters",
         "2017: Married",
         "2017: Father Lost Job",
-        "2018: Launched Leaderunderconstruction.com",
         "2018: Global WN Customers Determine Our Success Award",
-        "2018: Graduated Power Cultivate Program",
-        "2018: Non-Metallics Lab \"Internship\"",
-        "2018: 1 Year Anniversary"
+        "2019: Co-Led Women in Science & Engineering Symposium",
+        "2020: WFH & Lots of Takeout",
+        "2021: Cautious Optimism"
       ],
-      "bragValue": [4, 5, 0, 0, 4, 5, 5, 5, 5, 3, 5, -4, 3, 4, 5, 4, 5],
+      "bragValue": [4, 5, 0, 4, 4, 5, 5, 5, 5, 5, -3, 4, 4, 1, 3],
       "imgName": "JackiePolukort.jpg",
       "sessionDate": "September 2018"
     },
@@ -2471,21 +2469,7 @@
         "2018: Poking the Bear at Work",
         "2020: What’s next?"
       ],
-      "bragValue": [
-        5,
-        0,
-        5,
-        -2,
-        5,
-        -5,
-        -3,
-        4,
-        -3,
-        -4,
-        4,
-        3,
-        1
-      ],
+      "bragValue": [5, 0, 5, -2, 5, -5, -3, 4, -3, -4, 4, 3, 1],
       "imgName": "KoryLong.jpeg",
       "sessionDate": "February 2019"
     },
@@ -2510,22 +2494,7 @@
         "2018: This is 40",
         "2020: Company Man"
       ],
-      "bragValue": [
-        0,
-        0,
-        0,
-        0,
-        -4,
-        4,
-        5,
-        -3,
-        5,
-        -1,
-        3,
-        3,
-        -5,
-        5
-      ],
+      "bragValue": [0, 0, 0, 0, -4, 4, 5, -3, 5, -1, 3, 3, -5, 5],
       "imgName": "TatsukiMatsuyama.jpg",
       "sessionDate": "February 2019"
     }
