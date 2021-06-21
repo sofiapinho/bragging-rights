@@ -2497,6 +2497,21 @@
       "bragValue": [0, 0, 0, 0, -4, 4, 5, -3, 5, -1, 3, 3, -5, 5],
       "imgName": "TatsukiMatsuyama.jpg",
       "sessionDate": "February 2019"
+    },
+    {
+      "name": "Betsy Feiden",
+      "jobTitle": "Ramp Supervisor",
+      "bu": "FedEx Express",
+      "careerLength": "1",
+      "brag": [
+        "2020: Graduating college during a pandemic as a single parent",
+        "2020: Losing job during pandemic",
+        "2020: Taking chances and overcoming",
+        "2021: Knowing my worth and asking for what I deserve"
+      ],
+      "bragValue": [5, -5, 5, 5],
+      "imgName": "BetsyFeiden.jpeg",
+      "sessionDate": "June 2021"
     }
   ]
 }
