@@ -2502,14 +2502,21 @@
       "name": "Betsy Feiden",
       "jobTitle": "Ramp Supervisor",
       "bu": "FedEx Express",
-      "careerLength": "1",
+      "careerLength": "<1",
       "brag": [
-        "2020: Graduating college during a pandemic as a single parent",
-        "2020: Losing job during pandemic",
-        "2020: Taking chances and overcoming",
-        "2021: Knowing my worth and asking for what I deserve"
+        "May 2020: Graduating College During a Pandemic as a Single Parent",
+        "June 2020: Losing my job due to the pandemic",
+        "Oct 2020: Moving to New Jersey",
+        "Nov 2020: Finding out my children were starting to fail classes at school",
+        "Dec 2020: Losing housing twice and being in constant flux while living in the city",
+        "Jan 2021: Making the decision to leave a job that I loved",
+        "Jan 2021: Starting a new job",
+        "Feb 2021: Interviewing for a leadership position",
+        "March 2021: Obtaining the Role as Leadership",
+        "June 2021: Standing up to biases and unprofessionalism",
+        "June 2021: Doing all of this while being a single parent during a pandemic"
       ],
-      "bragValue": [5, -5, 5, 5],
+      "bragValue": [5, -2, 2, -2, -1, -4, 1, 2, 4, 3, 5],
       "imgName": "BetsyFeiden.jpeg",
       "sessionDate": "June 2021"
     }
